@@ -6,15 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+    <script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="gzzy8bk7yd6d4d1"></script>
+    <a 
+      href="https://www.dropbox.com/sh/lgh6cb3jbx3buns/AAAfeDrf0ZFMcJ1FizSh338za?dl=0" 
+      class="dropbox-embed"
+    ></a>
       </main>
 
       <Footer />
